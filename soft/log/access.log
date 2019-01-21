@@ -1,0 +1,7 @@
+[2019-01-21 14:04:07,835][MainThread:11704][task_id:core.src][src.py:19][INFO][登录成功]
+[2019-01-21 14:04:26,515][MainThread:11704][task_id:core.src][src.py:19][INFO][登录成功]
+[2019-01-21 14:21:26,719][MainThread:11772][task_id:core.src][src.py:19][INFO][登录成功]
+[2019-01-21 14:22:26,165][MainThread:6892][task_id:core.src][src.py:77][WARNING][None 1th incorrect password.]
+[2019-01-21 14:22:34,163][MainThread:6892][task_id:core.src][src.py:65][INFO][None log in successfully.]
+[2019-01-21 14:23:02,805][MainThread:6892][task_id:core.src][src.py:153][INFO][egon bought book,and $2999 left]
+[2019-01-21 14:26:31,132][MainThread:6172][task_id:core.src][src.py:64][INFO][None log in successfully.]
