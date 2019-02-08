@@ -1,0 +1,6 @@
+[2018-06-22 12:34:52,444][MainThread:19324][task_id:user][user.py:26][INFO][lqz3 注册了]
+[2018-06-22 12:35:21,854][MainThread:13352][task_id:bank][bank.py:40][INFO][您还款10元]
+[2019-01-20 13:58:47,299][MainThread:4522939840][task_id:user][user.py:31][INFO][albert 注册了]
+[2019-01-27 22:06:30,475][MainThread:9264][task_id:user][user.py:31][INFO][pengsky 注册了]
+[2019-01-27 22:07:27,360][MainThread:9264][task_id:bank][bank.py:40][INFO][您还款0元]
+[2019-02-03 17:54:54,352][MainThread:6024][task_id:user][user.py:31][INFO][uv 注册了]
